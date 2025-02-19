@@ -39,3 +39,8 @@ Kod w **C++** implementuje ten sam algorytm, jednak działa na tablicach `float[
 
 ## Autor
 Dawid Kosiński
+
+
+ ![Image Alt](https://github.com/DawidKosinski/RetroFilter/blob/44f78dc22f65c39345595d2a308d1f18a4d9a288/Screenshots/Effect.png)
+
+![Image Alt](https://github.com/DawidKosinski/RetroFilter/blob/44f78dc22f65c39345595d2a308d1f18a4d9a288/Screenshots/Screenshot.png)
